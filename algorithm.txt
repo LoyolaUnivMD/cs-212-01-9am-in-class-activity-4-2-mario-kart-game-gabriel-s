@@ -1,1 +1,18 @@
-THINK before you code...
+Define a Java class called MarioKartPlayer with the following attributes:
+
+The name of the player.
+The character chosen for the game (e.g., Mario, Luigi).
+The current speed of the player.
+Include the following methods:
+
+A constructor to initialize the player with a name, character, and starting speed.
+A boost method that simulates boosting, increasing the player's speed.
+A displayInfo method to display the player's information (name, character, speed).
+
+Create a Java class called MarioKartGame with the following:
+
+In the main method:
+Instantiate two MarioKartPlayer objects with different names, characters, and starting speeds.
+Display the information of both players.
+Simulate a boost action for each player.
+Display the updated information of both players after the boost.
