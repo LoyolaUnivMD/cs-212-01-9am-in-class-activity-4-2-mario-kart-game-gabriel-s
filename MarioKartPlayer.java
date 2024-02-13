@@ -16,3 +16,10 @@ public class MarioKartPlayer {
     }
 
     // Display player information
+    public void displayInfo() {
+        System.out.println("Player Name: " + playerName);
+        System.out.println("Character: " + character);
+        System.out.println("Speed: " + speed);
+    }
+}
+
